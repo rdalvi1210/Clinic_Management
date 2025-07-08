@@ -46,7 +46,7 @@ The Hospital Management System is a web application designed to streamline hospi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MKPTechnicals/Hospital-Management-System-MERN.git
+   git clone https://github.com/rdalvi1210/Clinic_Management.git
    ```
 
 2. Navigate to the frontend directory and install dependencies:
@@ -76,13 +76,13 @@ The Hospital Management System is a web application designed to streamline hospi
       firstName: "abc",
       lastName: "xyz",
       email: "abc@gmail.com",
-      password: "xyz123", 
+      password: "xyz123",
       role: "admin"
     });
     ```
 
     Then, execute it once using:
-  
+
     ```bash
     node createAdmin.js
     ```
